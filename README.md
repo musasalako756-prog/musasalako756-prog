@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Musa 👋
 
-<!--
-**musasalako756-prog/musasalako756-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Lagos-based Web3 developer passionate about Ethereum, DeFi, and building for Africa.  
+Currently learning Solidity & contributing to open-source.
 
-Here are some ideas to get you started:
+## Skills
+- Solidity • JavaScript • React
+- MetaMask • Hardhat • Remix IDE
+- Open to remote gigs & hackathons
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [Project 1](link) — Simple ERC-20 token
+- Check my pinned repos below!
+
+## Let's Connect
+- X: [@MusaSalako46291](https://x.com/MusaSalako46291)
+- Open for collaborations in Nigeria's Web3 scene 🇳🇬
+
+Made with ❤️ in Lagos
